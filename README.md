@@ -1,0 +1,1 @@
+Odin Project to create a landing page with the intention of practicing css skills
